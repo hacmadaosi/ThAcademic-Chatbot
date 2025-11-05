@@ -19,6 +19,8 @@
 
 #### 1. Sao chép (clone) dự án này về máy của bạn.
 
+di chuyển đến thư mục chứa
+
 #### 2. Tạo một môi trường ảo (khuyên dùng):
 
 ```bash

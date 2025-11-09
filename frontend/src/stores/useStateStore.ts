@@ -4,7 +4,7 @@ import { toast } from "sonner";
 import { create } from "zustand";
 
 export const useStateStore = create<StateStore>((set, get) => ({
-  openSlideBar: true,
+  openSlideBar: false,
   loading: false,
   message: "",
   reply: "",
